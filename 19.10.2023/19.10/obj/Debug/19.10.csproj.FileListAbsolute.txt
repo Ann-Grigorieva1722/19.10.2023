@@ -1,0 +1,11 @@
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\19.10.csproj.AssemblyReference.cache
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\MainWindow.baml
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\MainWindow.g.cs
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\App.g.cs
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\19.10_MarkupCompile.cache
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\19.10.g.resources
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\_19._10.Properties.Resources.resources
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\_19._10.Resource.resources
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\_19._10.Resources.ru.resources
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\19.10.csproj.GenerateResource.cache
+C:\Users\fanda\source\repos\19.10\19.10\obj\Debug\19.10.csproj.CoreCompileInputs.cache
